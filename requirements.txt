@@ -1,0 +1,5 @@
+ddddocr==1.5.3
+lxml==5.1.0
+pycryptodome==3.20.0
+pydantic==2.10.3
+Requests==2.32.3
